@@ -7,7 +7,5 @@ this shell program was done by vamsikrishna
 echo $(pwd)
 echo $(ls)
 echo "Happy coding"
-echo "Enter Your Name"
-read name
-echo "Welcome $name to Github"
+echo "sad coding"
 echo "njoy pandagoo"
